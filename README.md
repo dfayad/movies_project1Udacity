@@ -1,18 +1,5 @@
 # movies_project1Udacity
 
-Udacity Full Stack Web Developer project #1 by Daniel Fayad
-Movie Trailer website.
-
-WHAT IS IT?
-This project dislpays a website where you can find my favourite movies and
-you can watch their trailers by clicking on their posters.
-
-HOW DO YOU INSTALL IT?
-----
-
-HOW DO I USE IT?
-To display the website you need to download the files and 
-
 
 Project: Movie Trailer Website  - [Author’s Name]
 ================================
